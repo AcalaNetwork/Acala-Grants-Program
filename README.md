@@ -1,4 +1,4 @@
-# Grants Program
+# Acala Grants Program
 
 ![Logo](/src/acala%20grants%20program%20banner.png)
 
@@ -24,7 +24,7 @@ We are focused on funding technical projects that add value to the ecosystem. Th
 * [Bette Chen](https://github.com/bette7)
 * [Bryan Chen](https://github.com/xlc)
 * [Fuyao Jiang](https://github.com/jiangfuyao)
-* [Dan Reecer]()
+* [Dan Reecer](dreecer1)
 * [Ruitao Su](https://github.com/rsu)
 * [Jianjiang Wang](https://github.com/wangjj9219)
 
