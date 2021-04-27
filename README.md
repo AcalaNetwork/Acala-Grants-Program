@@ -5,26 +5,26 @@
 ## :checkered_flag: Mission
 The Acala Foundation Grants Program focuses on software development and research in the field of decentralized finance protocols that benefit the Acala and Karura ecosystem.
 
-The maximum amount of funding per application is limited to US$50,000. The large the funding needs, the closer evaluation, due diligence required and hence the longer wait time.
+The maximum amount of funding per application is limited to US$50,000. Larger funding requests will require more evaluation and due diligence, and hence the longer decision time.
 
-Announcements from grant teams can only be made once the 1st milestone is accepted. Teams shouldn't seek to cover 100% of their funding via Acala Grants Program. 
+Announcements about receiving an Acala Grant can only be made once the 1st milestone is accepted. Teams shouldn't seek to cover 100% of their funding via the Acala Grants Program. 
 
 ## :memo: Guidelines
-We are focused on funding technical projects that add value to the ecosystem. These are the general guidelines for grant applications:
+We are focused on funding technical projects that add value to the Acala & Karura ecosystem. These are the general guidelines for grant applications:
 
-* It is well-researched or well-tested idea, ideally **with proof-of-concept** or prior work to demonstrate feasibility.
+* It is a well-researched or well-tested idea, ideally **with a proof-of-concept** or prior work to demonstrate feasibility.
 * It shall demonstrate the project will be **deployed, maintained and operated** after completion of the grant, through commitment of funding or its economic or business models.
 * It shall demonstrate how the project can/will **specifically benefit** to the Acala network and/or its ecosystem, both technologically and economically.
-* The team has **proven experience** and track record for delivery.
+* The team has **proven experience** and track record for solid delivery.
 * It contains well-defined technical details.
-* It presents how your project **differentiate** from comparable products in the ecosystem or in other comparable ecosystems.
+* It presents how your project is **differentiated** from comparable products in the ecosystem or in other comparable ecosystems.
 * All code produced as part of a grant must be open-sourced.
 
 ## :zap: Acala Grant Committee
 * [Bette Chen](https://github.com/bette7)
 * [Bryan Chen](https://github.com/xlc)
 * [Fuyao Jiang](https://github.com/jiangfuyao)
-* [Dan Reecer](dreecer1)
+* [Dan Reecer](https://github.com/dreecer1)
 * [Ruitao Su](https://github.com/rsu)
 * [Jianjiang Wang](https://github.com/wangjj9219)
 
@@ -35,7 +35,7 @@ We are focused on funding technical projects that add value to the ecosystem. Th
 Apply [Here](https://forms.gle/2G6yHYJG9yTg6q2UA). Please discuss with us if you are unsure of any aspect of the application. You can contact us at <grants@acala.foundation>.
 
 ### :mag: 2. Review and Decision
-The grant committee on behalf of the Acala Foundation will review the application and determine if additional information is required. Once decision is made, the application team will be notified, and follow-ups will be arranged.
+The Acala Grants committee on behalf of the Acala Foundation will review the application and determine if additional information is required. Once a decision is made, the application team will be notified, and follow-ups will be arranged.
 
 ### :rocket: 3. Milestone Deliverables
 Milestone deliverables shall be submitted via email to <grants@acala.foundation>, and follow the guidelines below:
